@@ -1,4 +1,7 @@
 # Fast Routes
+[![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![npm version](https://img.shields.io/badge/npm-1.0.2-blue.svg)](https://www.npmjs.com/package/fast-routes)
+[![Coverage Status](https://coveralls.io/repos/github/hasangenc0/fast-routes/badge.svg?branch=master)](https://coveralls.io/github/hasangenc0/fast-routes?branch=master)
 
 Javascript routing for single page applications.
 

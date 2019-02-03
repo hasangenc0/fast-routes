@@ -1,0 +1,16 @@
+# npm modules
+node_modules
+
+# logs
+/*.log
+
+# builds
+/build
+
+# ts
+*.scss.d.ts
+*.css.d.ts
+*.o
+
+# build cache
+*.rts2_cache*

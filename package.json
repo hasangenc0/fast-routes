@@ -17,7 +17,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "nodemon examples/server.js",
     "build": "microbundle",
     "clean": "rm dist/*",
     "dev": "microbundle watch"

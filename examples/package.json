@@ -1,0 +1,12 @@
+{
+  "name": "examples",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fast-routes": "^1.0.2",
+    "pug": "^2.0.3",
+    "webpack": "^4.29.0"
+  }
+}

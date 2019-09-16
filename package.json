@@ -1,12 +1,15 @@
 {
   "name": "fast-routes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "js routing for single page apps",
   "main": "dist/fast-routes.js",
   "umd:main": "dist/fast-routes.umd.js",
   "module": "dist/fast-routes.mjs",
   "source": "src/fast-routes.ts",
   "types": "dist/fast-routes.d.ts",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@hasangenc0"
+  },
   "repository": {
     "url": "https://github.com/hasangenc0/fast-routes.git",
     "type": "git"

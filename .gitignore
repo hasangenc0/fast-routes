@@ -14,3 +14,5 @@ node_modules
 
 # build cache
 *.rts2_cache*
+
+.env

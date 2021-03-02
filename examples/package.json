@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "fast-routes": "^1.0.2",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "webpack": "^4.29.0",
     "snyk": "^1.189.0"
   },

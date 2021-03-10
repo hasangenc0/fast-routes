@@ -8,11 +8,11 @@
     "fast-routes": "^1.0.2",
     "pug": "^3.0.1",
     "webpack": "^4.29.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.316.1"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "prepublish": "yarn run snyk-protect"
   },
   "snyk": true
 }

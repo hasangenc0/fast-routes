@@ -8,7 +8,7 @@
     "fast-routes": "^1.0.2",
     "pug": "^3.0.1",
     "webpack": "^5.0.0",
-    "snyk": "^1.189.0"
+    "snyk": "^1.611.0"
   },
   "scripts": {
     "snyk-protect": "snyk protect",

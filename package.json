@@ -30,7 +30,7 @@
     "express": "^4.16.4",
     "nodemon": "^2.0.0",
     "pug": "^3.0.1",
-    "snyk": "^1.189.0"
+    "snyk": "^1.611.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.21",

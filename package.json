@@ -28,9 +28,9 @@
   },
   "dependencies": {
     "express": "^4.16.4",
-    "nodemon": "^2.0.0",
+    "nodemon": "^2.0.17",
     "pug": "^3.0.1",
-    "snyk": "^1.189.0"
+    "snyk": "^1.680.0"
   },
   "devDependencies": {
     "@types/node": "^10.12.21",

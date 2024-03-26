@@ -4,7 +4,7 @@
   "main": "server.js",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.19.2",
     "fast-routes": "^1.0.2",
     "pug": "^3.0.1",
     "webpack": "^5.0.0",
